@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .gradle
 **/build/
 gradle/wrapper/dists/
@@ -9,3 +10,6 @@ local.properties
 .cxx
 *.iml
 /mobile/
+=======
+[Inhalt der .gitignore] 
+>>>>>>> 79b2c63 (Add .gitignore file)
