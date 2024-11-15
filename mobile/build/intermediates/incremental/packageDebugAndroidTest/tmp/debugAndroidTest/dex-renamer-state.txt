@@ -1,0 +1,10 @@
+#Fri Nov 15 02:05:26 CET 2024
+base.2=C\:\\Users\\Henning Hagen\\AndroidStudioProjects\\Digilog\\mobile\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\3\\classes.dex
+path.2=3/classes.dex
+base.1=C\:\\Users\\Henning Hagen\\AndroidStudioProjects\\Digilog\\mobile\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.1=0/classes.dex
+base.0=C\:\\Users\\Henning Hagen\\AndroidStudioProjects\\Digilog\\mobile\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

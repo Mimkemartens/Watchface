@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mobile-mergeDebugResources-43:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Henning Hagen\\AndroidStudioProjects\\Digilog\\.gradle\\caches\\transforms-3\\0270cbd184a62c1ef825c35ff75ca516\\transformed\\core-splashscreen-1.0.1\\res\\values-v31\\values-v31.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,473",
+                        "endLines": "8,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "468,697"
+                    }
+                }
+            ]
+        }
+    ]
+}
